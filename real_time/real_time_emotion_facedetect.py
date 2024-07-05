@@ -14,8 +14,6 @@ except Exception as e:
     st.stop()
 
 # Streamlit app setup
-favicon = open('favicon.ico', 'rb').read()
-st.markdown(f'<link rel="shortcut icon" href="data:image/x-icon;base64,{favicon}">', unsafe_allow_html=True)
 st.title('Real-time Emotion Detection')
 st.write('This application detects faces and their emotions in real-time using your webcam.')
 
