@@ -16,6 +16,14 @@ except Exception as e:
 # Streamlit app setup
 st.title('Real-time Emotion Detection')
 st.write('This application detects faces and their emotions in real-time using your webcam.')
+st.title('Team Members')
+st.write('ANISH KUMAR 1AY21CS028')
+st.write('ADITYA KHATRIYA 1AY21CS018')
+st.write('ADITYA JYOTI SAHU 1AY21CS017')
+st.write('ADITYA ARUN KUMAR 1AY21CS016')
+
+
+
 
 # Initialize the webcam
 cap = cv2.VideoCapture(0)
