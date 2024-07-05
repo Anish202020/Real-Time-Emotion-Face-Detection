@@ -1,6 +1,7 @@
 # Real-Time Emotion Detection Website
 ## Overview
 This documentation provides a comprehensive guide to building a real-time emotion detection website using Streamlit and various Python libraries. The website analyzes facial expressions via a camera to detect emotions in real-time.
+
 <img src="https://i.ibb.co/x5bmYWp/Screenshot-119.png" alt="Screenshot-119" border="0">
 ## Purpose
 The primary purpose of this website is to detect emotions in real-time using facial expressions captured via a camera.
