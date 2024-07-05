@@ -70,6 +70,7 @@ while True:
 
     # Generate a unique key for each button instance using UUID
    
-   
+
 
 cap.release()
+
