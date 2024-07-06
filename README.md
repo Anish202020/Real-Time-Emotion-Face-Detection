@@ -34,10 +34,10 @@ pip install streamlit
 Ensure your webcam or camera is properly configured and accessible by your system.
 
 ### Step 4: Run the Streamlit Application
-Create a Python script (e.g., `app.py`) with the necessary code to set up the Streamlit application and integrate the emotion detection functionality. Run the application using:
+Create a Python script (e.g., `real_time_emotion_facedetect.py`) with the necessary code to set up the Streamlit application and integrate the emotion detection functionality. Run the application using:
 
 ```sh
-streamlit run app.py
+streamlit run real_time_emotion_facedetect.py
 ```
 ## Code Structure
 Provide an overview of the code structure and key components of the application.
