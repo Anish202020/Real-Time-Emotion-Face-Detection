@@ -1,8 +1,18 @@
 # Real-Time Emotion Detection Website
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Machine%20Learning/real_time_banner.png"/>
+
+
 ## Overview
+<img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/logo-face.png" width="120"/>
+
+
+
 This documentation provides a comprehensive guide to building a real-time emotion detection website using Streamlit and various Python libraries. The website analyzes facial expressions via a camera to detect emotions in real-time.
 
+<details>
+    <summary> Dataflow Diagram</summary>
 <img src="https://i.ibb.co/x5bmYWp/Screenshot-119.png" alt="Screenshot-119" border="0">
+</details>
 
 ## Purpose
 The primary purpose of this website is to detect emotions in real-time using facial expressions captured via a camera.
