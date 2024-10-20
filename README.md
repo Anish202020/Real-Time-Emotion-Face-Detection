@@ -1,6 +1,12 @@
 # Real-Time Emotion Detection Website
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Banner/Banner-1/Machine%20Learning/real_time_banner.png"/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![FER](https://img.shields.io/badge/FER-FF6F61?style=for-the-badge&logo=fer&logoColor=white)](https://github.com/justinshenk/fer)
 
 ## Overview
 <img src="https://github.com/Anish202020/Web-Development-Data/blob/main/Logos/Website%20Logos/logo-face.png" width="120"/>
